@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "576324799617",
+    "project_id": "university-schedules",
+    "storage_bucket": "university-schedules.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576324799617:android:3398df3f12e1f4b44c5180",
+        "android_client_info": {
+          "package_name": "com.example.institute_schedules"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576324799617-dprfhkk5t970udqe9a9uklbpa0g0pv3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhgWr5Gu6ZqqSujBcSH6TWmMBjenK49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576324799617-dprfhkk5t970udqe9a9uklbpa0g0pv3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576324799617-d76j1ghhav03prona2djbd91k9gmohom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instituteSchedules"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576324799617:android:53b509aff5027cc34c5180",
+        "android_client_info": {
+          "package_name": "com.example.khsu_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576324799617-dprfhkk5t970udqe9a9uklbpa0g0pv3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhgWr5Gu6ZqqSujBcSH6TWmMBjenK49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576324799617-dprfhkk5t970udqe9a9uklbpa0g0pv3d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576324799617-d76j1ghhav03prona2djbd91k9gmohom.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instituteSchedules"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
